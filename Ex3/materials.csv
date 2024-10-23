@@ -1,0 +1,13 @@
+Material Type,Temperature (C),Stress (MPa),Strain (%),Tensile Strength (MPa),Elongation (%)
+Aluminum,25,200,0.5,250,12
+Steel,25,400,0.3,450,10
+Copper,100,150,0.6,200,15
+Aluminum,100,180,0.4,230,14
+Steel,200,380,0.2,420,11
+Copper,200,140,0.5,190,16
+Aluminum,300,170,0.7,220,13
+Steel,300,360,0.25,410,9
+Copper,300,130,0.65,180,17
+Aluminum,25,190,0.45,240,13
+Steel,100,390,0.35,440,10
+Copper,25,160,0.55,210,14
